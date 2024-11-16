@@ -19,30 +19,5 @@ JavaScript – The programming language powering the app.
 
 Installation
 To run this project locally, follow these steps:
-
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/your-repo-name.git
-Navigate to the project folder:
-bash
-Copy code
-cd your-repo-name
-Install the dependencies:
-bash
-Copy code
-npm install
-Start the development server:
-bash
-Copy code
-npm start
-Open your browser and visit http://localhost:3000 to see the portfolio in action.
-Screenshots
-Include screenshots of your portfolio if you'd like to show them off here.
-
-Future Improvements
-Add more projects to showcase.
-Implement routing for a more structured site.
-Improve accessibility and responsiveness.
 License
 This project is open-source and available under the MIT License.
